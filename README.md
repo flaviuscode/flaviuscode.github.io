@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Lives and Voices
 
-You can use the [editor on GitHub](https://github.com/flaviuscode/flaviuscode.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Lives and Voices of People in Extraordinary Circumstances
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In an accelerating tidal wave of human affairs, Lives and Voices is the must-read source to understand how major events affect people’s lives half the world away. 
 
-### Markdown
+Lives and Voices brings on the ground reactions to world events, as an airstrike, explores everyday life in conflict, and gives voice to people who don't have a voice. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Through the best photography and stories from the ground, Lives and Voices helps understand everyday life in interesting, difficult and often dangerous places, which are affected by the dramatic or seemingly benign actions and decisions our leaders take. 
 
-```markdown
-Syntax highlighted code block
+Lives and Voices began as a humanitarian, photography and reporting project in 2014. The initial mission was to volunteer in a Syrian refugee camp in Iraq. I began to interview people I met in addition to photographing them. 
 
-# Header 1
-## Header 2
-### Header 3
+### We are waiting for you on
 
-- Bulleted
-- List
+[Facebook](https://www.facebook.com/livesandvoices/), [Twitter](https://twitter.com/livesandvoices), [Instagram](https://www.instagram.com/livesandvoices/) and [Medium](https://medium.com/livesandvoices) 
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flaviuscode/flaviuscode.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Facebook Messenger](m.me/livesandvoices), Whatsapp: +1 202-370-1437
