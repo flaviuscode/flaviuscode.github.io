@@ -4,4 +4,4 @@ One of my most exciting projects is bringing together data scientists, journalis
 
 Another passion of mine is connecting and facilitating dialogue across cultures, countries, and communities to help find solutions to urgent sustainable development challenges, such as infrastructure financing and waste management.
 
-Please reach out if you want to chat. You can find me on Twitter at twitter.com/flaviusoxford
+Please reach out if you want to chat. You can find me on Twitter at [@flaviusoxford](https://twitter.com/flaviusoxford) 
