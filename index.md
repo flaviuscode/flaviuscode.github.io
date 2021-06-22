@@ -4,7 +4,7 @@ One of my most exciting projects, [Data Journalism DC](https://www.meetup.com/da
 
 Another passion of mine is connecting and facilitating dialogue across cultures, countries, and communities to help find solutions to urgent sustainable development challenges, such as infrastructure financing and waste management.
 
-Please reach if you want to chat. You can find me on Twitter [@flaviusoxford](https://twitter.com/flaviusoxford) 
+Please reach if you want to chat. You can find me on Twitter [@flaviusoxford](https://twitter.com/flaviusoxford) and [Linkedin.](https://www.linkedin.com/in/flaviusoxford/)
 
 [Work on Syria](./work_on_Syria)
 
