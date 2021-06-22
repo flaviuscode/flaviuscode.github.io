@@ -7,3 +7,9 @@ Another passion of mine is connecting and facilitating dialogue across cultures,
 Please reach out if you want to chat. You can find me on Twitter [@flaviusoxford](https://twitter.com/flaviusoxford) 
 
 [Work on Syria](./work_on_Syria)
+
+## Current Projects
+
+U.S. sanctions on Syria 
+
+The Glossist (under development)
