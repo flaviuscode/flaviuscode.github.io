@@ -8,6 +8,8 @@ Please reach if you want to chat. You can find me on Twitter [@flaviusoxford](ht
 
 [Work on Syria](./work_on_Syria)
 
+[Work on Culture and Trade](./work_on_culture_and_trade)
+
 ## Current Projects
 
 U.S. sanctions on Syria 
