@@ -8,6 +8,8 @@ Please reach if you want to chat. You can find me on Twitter [@flaviusoxford](ht
 
 [Work on Syria](./work_on_Syria)
 
+[Work on data journalism](./work_on_data_journalism)
+
 [Work on culture and trade](./work_on_culture_and_trade)
 
 [Film on E-taste](https://filmfreeway.com/463410)
