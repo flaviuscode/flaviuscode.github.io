@@ -16,6 +16,6 @@ Please reach if you want to chat. You can find me on Twitter [@flaviusoxford](ht
 
 ## Current Projects
 
-U.S. sanctions
+[U.S. sanctions](./project_US_sanctions
 
-The Glossist (under development)
+[The Glossist](./project_the_Glossist) (under development)
