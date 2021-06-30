@@ -12,10 +12,10 @@ Please reach if you want to chat. You can find me on Twitter [@flaviusoxford](ht
 
 [Work on culture and trade](./work_on_culture_and_trade)
 
-[Film on E-taste](https://filmfreeway.com/463410)
+[Film on E-waste](https://filmfreeway.com/463410)
 
 ## Current Projects
 
-U.S. sanctions on Syria 
+U.S. sanctions
 
 The Glossist (under development)
