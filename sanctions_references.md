@@ -6,9 +6,9 @@
 
 ### How the Caesar Act got rolled up into the NDAA 2020
 
-### The content of the Act
+### The content of Caesar
 
-### The relevance of the Act
+### The relevance of Caesar
 
 ## Sanction designations
 
