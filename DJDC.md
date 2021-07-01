@@ -28,5 +28,5 @@ Organizers: [Kyle Novak](https://www.linkedin.com/in/kylenovak29/), [Flavius Mih
 
 [Linkedin](https://www.linkedin.com/company/65743228)
 
-[Slack](https://datajournos.slack.com) (request an invitation [here:](https://goo.gl/forms/HRBTLccwcRiW96DM2)
+[Slack](https://datajournos.slack.com) (request an invitation [here](https://goo.gl/forms/HRBTLccwcRiW96DM2))
 
