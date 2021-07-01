@@ -1,6 +1,6 @@
 # Data Journalism DC
 
-## We bring together data scientists, journalists, and citizens.
+## We bring together data scientists, journalists, and citizens
 
 ### What we do and care about
 
