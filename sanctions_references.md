@@ -1,12 +1,12 @@
 # Sanctions References  
 
-## Section 74 of the National Defense Authorization Act for Fiscal Year 2020
+## Section 74, aka the Caesar Act, of the National Defense Authorization Act for Fiscal Year 2020
 
 [This repository contains the section relevant to the U.S. sanctions on Syria from the National Defense Authorization Act for Fiscal Year 2020](https://github.com/flaviuscode/syria_sanctions_references/blob/main/National_Defense_Authorization_Act_for_Fiscal_Year_2020.md)
 
-### How Caesar got rolled up into the NDAA 2020
+### How the Caesar Act got rolled up into the NDAA 2020
 
-### The content of the bill
+### The content of the Act
 
 ## Sanction designations
 
