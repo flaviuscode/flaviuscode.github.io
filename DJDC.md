@@ -8,7 +8,8 @@ We began as a way to connect the local participants in the Knight Center's Pytho
 
 ### Who we are 
 
-A community: [Data Journalism DC Meetup group](https://www.meetup.com/data-journalism/)
+A community: [Data Journalism DC Meetup group](https://www.meetup.com/data-journalism/) and on [Slack](https://datajournos.slack.com) (request an invitation [here](https://goo.gl/forms/HRBTLccwcRiW96DM2))
+
 
 Organizers: [Kyle Novak](https://www.linkedin.com/in/kylenovak29/), [Flavius Mihaies](https://www.linkedin.com/in/flaviusoxford/), and [Baur Safi](https://www.linkedin.com/in/baursafi/).
 
