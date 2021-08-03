@@ -23,8 +23,12 @@ For Syria
 
 Caesar added to the existing sanctions on Syria that began in 1979 and have expanded since then. 
 
+It contains the nuclear option of
 
 Beyond Syria 
+
+### What comes after Caesar? 
+
 
 A lesson on policymaking, Caeasr illustrates the process through which interest groups can ensure the passage of unrelated laws into an ominbus bill that must pass. 
 
