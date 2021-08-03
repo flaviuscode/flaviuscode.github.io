@@ -6,9 +6,27 @@
 
 ### How the Caesar Act got rolled up into the NDAA 2020
 
+Sheaperd by SAC, the pro-sanctions party in Washington, made mutiple attempts to get Congress to enact tougher sanctions on Syria than already existed. 
+
+The effort was ultimately successful through the passage of the National Defense Authorization Act. It was embeded in the act. 
+
+The NDAA is the bloodline of the military. It ensure its funding for the next year. 
+
 ### The content of Caesar
 
+Sanctions on individuals 
+
+
 ### The relevance of Caesar
+
+For Syria 
+
+Caesar added to the existing sanctions on Syria that began in 1979 and have expanded since then. 
+
+
+Beyond Syria 
+
+A lesson on policymaking, Caeasr illustrates the process through which interest groups can ensure the passage of unrelated laws into an ominbus bill that must pass. 
 
 ## Sanction designations
 
