@@ -28,7 +28,5 @@ Social Media
 
 Slack 
 
-If you want to connect with other members, we have a Slack channel 
-
-[Slack](https://datajournos.slack.com) (request an invitation [here](https://goo.gl/forms/HRBTLccwcRiW96DM2))
+If you want to connect with other members, we have a Slack channel, [datajournos.slack](https://datajournos.slack.com/) (request an invitation [here](https://goo.gl/forms/HRBTLccwcRiW96DM2))
 
